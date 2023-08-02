@@ -1,0 +1,15 @@
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.csproj.AssemblyReference.cache
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.AssemblyInfoInputs.cache
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.AssemblyInfo.cs
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\bin\Debug\net7.0\Federacion_Ejercicio.exe
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\bin\Debug\net7.0\Federacion_Ejercicio.deps.json
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\bin\Debug\net7.0\Federacion_Ejercicio.runtimeconfig.json
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\bin\Debug\net7.0\Federacion_Ejercicio.dll
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\bin\Debug\net7.0\Federacion_Ejercicio.pdb
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.dll
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\refint\Federacion_Ejercicio.dll
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.pdb
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\Federacion_Ejercicio.genruntimeconfig.cache
+C:\Users\gio\Documents\PROGRAMACION\Campus\C sharp\Ejercicio-futbol\obj\Debug\net7.0\ref\Federacion_Ejercicio.dll

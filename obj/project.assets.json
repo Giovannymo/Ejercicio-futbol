@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\C sharp\\Ejercicio_POO\\Federacion_Ejercicio\\Federacion_Ejercicio.csproj",
+      "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\C sharp\\Ejercicio-futbol\\Federacion_Ejercicio.csproj",
       "projectName": "Federacion_Ejercicio",
-      "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\C sharp\\Ejercicio_POO\\Federacion_Ejercicio\\Federacion_Ejercicio.csproj",
+      "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\C sharp\\Ejercicio-futbol\\Federacion_Ejercicio.csproj",
       "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\C sharp\\Ejercicio_POO\\Federacion_Ejercicio\\obj\\",
+      "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\C sharp\\Ejercicio-futbol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
